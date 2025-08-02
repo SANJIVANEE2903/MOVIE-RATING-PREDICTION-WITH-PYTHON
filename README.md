@@ -1,1 +1,28 @@
-# MOVIE-RATING-PREDICTION-WITH-PYTHON
+# 🎬 Movie Rating Prediction – Task 2
+
+This is Task 2 of my **Data Science Internship at CODSOFT**.
+
+## 📌 Objective:
+Predict movie ratings based on features like **genre, director, and actors** using regression techniques in Python.
+
+## 📊 Dataset:
+[Kaggle: IMDb Indian Movies Dataset](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies)
+
+## ⚙️ Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Scikit-learn
+
+## 📈 Model Performance:
+Achieved R² score of **X.XX** with **Linear Regression** model.
+
+## 🎥 Demo Video:
+[Link to LinkedIn Video (optional)]
+
+## 🔗 Connect with Me:
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: [If any]
+
+#codsoft #datascience #machinelearning #regression #internship
