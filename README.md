@@ -22,5 +22,5 @@ Achieved R² score of **X.XX** with **Linear Regression** model.
 [Link to LinkedIn Video (optional)]
 
 ## 🔗 Connect with Me:
-- LinkedIn: [[Your LinkedIn URL(https://www.linkedin.com/in/sanjivanee-todakar-362823293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+- LinkedIn: [LinkedIn URL(https://www.linkedin.com/in/sanjivanee-todakar-362823293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 #codsoft #datascience #machinelearning #regression #internship
